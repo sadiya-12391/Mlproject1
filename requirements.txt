@@ -3,7 +3,8 @@ numpy
 seaborn
 matplotlib
 ipykernel
-sys
+# sys
 catboost
 xgboost
+dill
 # -e . # automatically trigger setup.py
