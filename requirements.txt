@@ -1,4 +1,9 @@
 pandas
 numpy 
 seaborn
--e . # automatically trigger setup.py
+matplotlib
+ipykernel
+sys
+catboost
+xgboost
+# -e . # automatically trigger setup.py

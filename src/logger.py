@@ -8,7 +8,7 @@ LOG_FILE = f"{datetime.now().strftime('%m_%d_%Y_%H_%M_%S')}.log"
 # Create a directory for logs if it doesn't exist
 logs_path = os.path.join(os.getcwd(), 'logs')
 os.makedirs(logs_path, exist_ok=True)
-
+    
 # Define the full log file path
 LOG_FILE_PATH = os.path.join(logs_path, LOG_FILE)
 
